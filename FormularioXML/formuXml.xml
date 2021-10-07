@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<ficha id="1">
+        <nome>Yaya</nome>
+        <endereco>Rua Perdida</endereco>
+        <telefone>999999-555</telefone>
+        
+            
+    </ficha>
+    
+    
+    <ficha id="2">
+        <nome>  Yayaaaa    </nome>
+        <endereco>  O que eu quero da vida? </endereco>
+        <telefone>    999999-555    </telefone>
+        
+            
+    </ficha>
+    
+    <ficha id="3">
+        <nome> JOAQUIM </nome>
+        
+        
+    </ficha>
+
+

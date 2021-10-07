@@ -1,0 +1,17 @@
+#
+#Thu Aug 20 20:58:54 BRT 2020
+Periodo=Noite
+Curso=Java
+Nome=Senai
+
+Periodo=Manha
+Curso=Petroleo
+Nome=Joao
+
+Periodo=Tarde
+Curso=Cinema
+Nome=Santos
+
+Periodo=Noite
+Curso=Java
+Nome=Senai

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<amigos>
+
+    <ficha id="1">
+        <nome> Yasmin Silva           </nome>
+        <endereco> Senai      </endereco>
+        <telefone> 99999-9999     </telefone>
+        
+                    
+    </ficha>
+
+<ficha id="2">
+        <nome> Coracao          </nome>
+        <endereco> Rua Vida    </endereco>
+        <telefone> 99999-9999     </telefone>
+        
+                    
+    </ficha>
+
+
+
+
+
+
+
+
+
+
+
+</amigos>
